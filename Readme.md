@@ -1,5 +1,5 @@
 ## Créer un repo github à partir d'un répo local:  
-Avant de commencer, il faut installer git et créer un compte sur github (choisir même adresse mail et nom d'utilisateur)
+Avant de commencer, il faut installer git et créer un compte sur github (choisir même adresse mail et nom d'utilisateur)  
 1/ créer un repo vide sur github  
 2/ cloner ce rep sur la machine locale en utilisant :  
 git clone lien https du repo  
